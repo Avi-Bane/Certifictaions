@@ -30,5 +30,100 @@ What is statistics?
 	19th Century: Modern Statistics- emerges via genetics demography economics
 	20th Century: Statistical Theory advances, new applications, areas, computers
 	21st Century: Massive data, data Science, Machine learning
+--------------------------------------------------------------------------------------------------------------------------------------
+What is data?
+------------
 	
+** Data can be number.
+** Data can be images.
+** Data can be words.
+** Data can be audio.
+
+** Florence Nightingale also the big founder in statistics apart from nursing. She gave historical graph.
+
+** Two key types of data:
+	1. Organic/Process data:- This type of data is computerized information or maybe extracted from video or audio. This type of data is produced organically as the result of some process or often generated with time
+	 
+	For ex:- Financial or point-of-sale transactions/ stock market exchanges, Netflix viewing history, web Browser activity, sporting events, Temperature/ pollution sensors.
 	
+	These processes generate massive quantities of data called "BIG DATA".
+	
+	Processing requires significant computational resources; So Data Scientists "Mine" these data to study trend and uncover interesting relationships.
+
+	2. Designed Data Collection:- Designed to specifically address a stated research objective. 
+
+	For ex:- tweets that are extracted from twitter and then coded by a research team that how often people might be expressing opinion on a particular topic.
+	
+	The key difference is that these are very rigorously designed data collections as opposed to just large data sets that are rising organically that people might be interested in looking at.
+	
+	Common features:- 
+	sampling from populations, administration of carefully designed questions, 
+	Typically data sets much smaller compared to organic/process data sets.
+	Data collected for very specific reasons, rather than simple reflections of ongoing natural process.
+
+** For analyzing data, regardless of source, an important question is: 
+	Q: Can the data be considered i.i.d.?
+		Where I = independent and id = identically distributed
+  it means observations on a variable of interest in the i.i.d case are completely independent of all observations.
+In addition , all the values that we actually observe arise from common statistical distribution, so that's the identically distributed part of i.i.d..
+For example,
+
+
+** What if Data are NOT i.i.d.?
+Since, Dependencies and differences need to be accounted for in analysis! 
+We need different analytical procedures.
+
+Hence we should always consider where data came from!
+
+** Types of variables:-
+
+	1. Quantitative Variables: Numerical, numerical quantities in which arithmetic operations often make sense. 
+		a. Continuous- could take on any value within an interval, many possible values
+		b. Discrete - countable value, finite number of values  
+		
+	2. Categorical (or Qualitative) Variables: Classifies individuals or items into different group.
+		a. Ordinal- Groups have an order or ranking
+		b. Nominal- groups are merely names, no ranking
+
+
+** Study design in various fields:-
+	1. Clinical trials for drugs and other medical treatments.
+	2. Reliability and quality-assurance studies for manufactures products.
+	3. Observational studies for human health
+	4. Public opinion and other surveys 
+	5. Studies involving administrative and other incidental data
+	6. Market research studies
+	7. Agricultural field trials
+
+** Types of research studies:-
+
+	1. Exploratory versus Confirmatory studies:
+	Confirmatory:-  a scientific method. Its goal is to have a specified falsifiable hypothesis, and then test it, collecting data to address that single pre-specified question.
+	
+	Exploratory:- Collect and analyze data without first pre-specifying question. 
+	
+	Informative but watch out for overfitting, multiple testing, p-hacking. The more questions you ask from a data set, the more likely you are to draw a misleading conclusion.
+
+	2. Comparative versus non-comparative studies: 
+	Many other studies are compared to nature where the goal is to contrast quantity to another.
+	
+	In non-comparative studies, the focus is on estimating or predicting absolute quantities, not explicitly comparative.
+	
+	3. Observational Studies versus Experiments:
+	Observational data arises naturally. The contrasts are going to be based on self-selection of units into groups.
+	
+	Whereas in experiments, the experimenter is deliberately treating units differently in different ways. There's often manipulation or assignment of the subjects to a treatment.
+	
+** In general, more data yield more information, but the manner in which that data's collected is very important.
+	
+** Power analysis is a process by which we can assess  whether a given study design is likely to yield meaningful findings.  How power is calculated depends on the analysis that's going to be performed, but we will touch basis on that in material coming ahead.
+
+** Bias is another issue that can result when the measurements are systematically off-target, or perhaps it's the sample that's not representative of the population of interest. Bias can be a problem in any type of study, but observational studies are a little bit more vulnerable to it.
+
+
+
+
+
+
+
+
