@@ -1,0 +1,218 @@
+Question 1
+The following graphs show the distributions for number of sandwiches sold per day at delis managed by the same owner and in the same region.  Match these graphs to the appropriate sentence describing them.
+
+
+ Which of these statements best summarizes the distribution of the number of sandwiches sold daily for Deli A?
+
+
+
+Statement 1: The number of sandwiches sold is bimodal with peaks around 300 and 400.  The number of sandwiches vary from around 250 to around 450.  There do not appear to be outliers.
+
+
+Statement 2: The number of sandwiches sold is slightly skewed left and unimodal, with a center around 500 and a range from around 200 to around 800. There do not appear to be outliers.
+
+
+Statement 3: The number of sandwiches sold is skewed right with a peak around 200. The number of sandwiches vary from around 125 to around 325. There do not appear to be outliers.
+
+
+Statement 4: The number of sandwiches sold has a bell shaped distribution, with a peak around 500 and with values varying from around 460 to around 540. There do not appear to be outliers.
+
+Answer: Statement 4
+2.
+Question 2
+Which of these statements best summarizes the distribution of the number of sandwiches sold daily for Deli B?
+
+Statement 1: The number of sandwiches sold is bimodal with peaks around 300 and 400.  The number of sandwiches vary from around 250 to around 450.  There do not appear to be outliers.
+
+
+Statement 2: The number of sandwiches sold is slightly skewed left and unimodal, with a center around 500 and a range from around 200 to around 800. There do not appear to be outliers.
+
+
+Statement 3: The number of sandwiches sold is skewed right with a peak around 200. The number of sandwiches vary from around 125 to around 325. There do not appear to be outliers.
+
+
+Statement 4: The number of sandwiches sold has a bell shaped distribution, with a peak around 500 and with values varying from around 460 to around 540. There do not appear to be outliers.
+
+Answer: Statement 2
+
+3.
+Question 3
+Which of these statements best summarizes the distribution of the number of sandwiches sold daily for Deli C?
+
+
+Statement 1: The number of sandwiches sold is bimodal with peaks around 300 and 400.  The number of sandwiches vary from around 250 to around 450.  There do not appear to be outliers.
+
+
+Statement 2: The number of sandwiches sold is slightly skewed left and unimodal, with a center around 500 and a range from around 200 to around 800. There do not appear to be outliers.
+
+
+Statement 3: The number of sandwiches sold is skewed right with a peak around 200. The number of sandwiches vary from around 125 to around 325. There do not appear to be outliers.
+
+
+Statement 4: The number of sandwiches sold has a bell shaped distribution, with a peak around 500 and with values varying from around 460 to around 540. There do not appear to be outliers.
+
+Answer: Statement 3
+
+4.
+Question 4
+Which of these statements best summarizes the distribution of the number of sandwiches sold daily for Deli D?
+
+
+
+Statement 1: The number of sandwiches sold is bimodal with peaks around 300 and 400.  The number of sandwiches vary from around 250 to around 450.  There do not appear to be outliers.
+
+
+Statement 2: The number of sandwiches sold is slightly skewed left and unimodal, with a center around 500 and a range from around 200 to around 800. There do not appear to be outliers.
+
+
+Statement 3: The number of sandwiches sold is skewed right with a peak around 200. The number of sandwiches vary from around 125 to around 325. There do not appear to be outliers.
+
+
+Statement 4: The number of sandwiches sold has a bell shaped distribution, with a peak around 500 and with values varying from around 460 to around 540. There do not appear to be outliers.
+
+Answer: Statement 1
+
+
+5.
+Question 5
+Which Deli has the smallest range for the number of sandwiches sold daily?
+
+
+Deli A <-----
+
+
+Deli B
+
+
+Deli C
+
+
+Deli D
+
+
+Can't tell
+
+6.
+Question 6
+Which is larger for Deli C, the mean number of sandwiches sold daily or the median number of sandwiches sold daily?
+
+The mean<-----
+
+
+The median
+
+
+They are the same
+
+
+Can't tell
+
+7.
+Question 7
+The following graph shows the service time (in minutes) for customers at five delis. What approximate proportion of customers are waiting for more than 12 minutes for their sandwich at Deli A?
+
+
+25%
+
+
+30%
+
+
+50% <-------
+
+
+75%
+
+
+Can't tell
+
+8.
+Question 8
+ Which value best completes this statement? "Approximately 25% of our customers are served within ____ minutes for their sandwich at Deli D."
+
+
+20
+
+
+10 <-----
+
+
+32
+
+9.
+Question 9
+Which deli's service time distribution has the smallest median?
+
+
+Deli A
+
+
+Deli B
+
+
+Deli C <-----
+
+
+Deli D
+
+
+Deli E
+
+
+Can't tell
+
+10.
+Question 10
+Based on the boxplots, which value correctly completes this statement?
+
+"The longest service time for a Deli B customer was approximately ____ minutes."
+
+
+
+28
+
+
+36 <-----
+
+
+62 
+
+11.
+Question 11
+The manager is also interested in looking at the distribution of the types of sandwiches ordered before placing the next order for food supplies.  Which sandwich has the largest mean?
+
+
+
+Turkey
+
+
+Roast Beef
+
+
+Ham
+
+
+Vegetarian
+
+
+None of the above <-------
+
+12.
+Question 12
+The manager is also interested in looking at the distribution of the types of sandwiches ordered before placing the next order for food supplies. Which type of sandwich is ordered the most?
+
+
+
+Turkey <-------
+
+
+Roast Beef
+
+
+Ham
+
+
+Vegetarian
+
+
+Can't tell

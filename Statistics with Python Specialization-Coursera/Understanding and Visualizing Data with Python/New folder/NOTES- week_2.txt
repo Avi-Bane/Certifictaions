@@ -1,0 +1,45 @@
+**Categorical data simply  classifies individuals or items into different groups. 
+
+**To summarize the data we can use different tables:
+	1. Frequency table - Great for numerical summaries
+	2. Bar Chart - Great for visualization
+	3. Pie chart - difficult to understand sometimes
+
+**For quantitative data we use the following Numerical summaries:
+	Mean
+	Min
+	Quartil1 (25%)
+	Median(50%)
+	Quartile3 (75%)
+	Max
+	IQR = Q3 - Q1 (Quartile 3 - Quartile1)
+	Standard Deviation (SD)
+	Sample size 
+**Facts:
+	1. 68 percent of the values are expected to be within one standard deviation away from the mean in a bell shaped distribution.
+	2. 95 percent of the observations are expected to be within two standard deviations of the mean.
+	3. For third standard deviation, For a bell-shaped or normal distribution, that would be 99.7 percent
+	4. This 68-95-99.7 are called empirical rule.
+	5. Standard score = (Obs - mean)/ SD
+	
+**To represent Quantitative data we can use the following graphs:
+	1. Histograms:  are like Bar chart without gaps in between bars, i.e., for showing continuous data.
+
+		4 main aspects of histogram:
+		
+		Shape: overall appearance of histogram. Can be Symmetric, bell-shaped, left skewed, right skewed, etc.
+		
+		Centre: Mean or Median
+		
+		Spread: How far our data Spread. Range, Interquartile Range(IQR), Standard deviation, variance
+		
+		Outliers: Data points that fill from the bulk of the data.
+		 
+	2. Boxplot: 
+	boxplot is basically going to take this five-number summary and give us a visual picture of it. A boxplot would be started by taking our quartiles Q1 and Q3 to form the edge of the boxes. So, visually the length of the box is our interquartile range, a nice measure of spread. Then, the median location would be marked in the middle of the box at the right location, and the min and max would be drawn by taking lines and extending them out from the box. These are sometimes called whiskers, so these are often referred to as box and whisker plots.
+	 
+	Boxplots can hide gaps and clusters.
+	Boxplots are useful for comparing sets of observations.
+	
+
+
